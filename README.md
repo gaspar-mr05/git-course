@@ -5,6 +5,4 @@ Este es otro cambio
 
 Mostrando pull con rebase y sin rebas
 
-Cambio descarado en remoto
-
-Hola mundo
+Cambio en remoto para descargar en local
