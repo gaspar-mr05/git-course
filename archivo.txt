@@ -2,3 +2,4 @@ formulario de inicio de sesion
 logica
 recuperar contrasena
 ortografia
+Finalizando animaciones
